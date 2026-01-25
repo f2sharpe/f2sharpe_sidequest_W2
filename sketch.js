@@ -14,8 +14,8 @@ let blob3 = {
   wobbleFreq: 0.9,
 
   // Time values for breathing animation
-  t: 0,
-  tSpeed: 0.01,
+  t: -5,
+  tSpeed: 3,
 
   // Physics: velocity
   vx: 0, // Horizontal velocity
